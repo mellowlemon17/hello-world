@@ -1,2 +1,2 @@
 # hello-world
-This is my first repository.
+Hi, i'm John Doe! I'm 17 and i'm a student in IT.
